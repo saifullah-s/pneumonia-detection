@@ -1,0 +1,3 @@
+# Dataset Information  
+
+This project uses the [Pneumonia Chest X-Ray Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) from Kaggle. The dataset's images are originally in JPEG format and are converted into the HDF5 file format for efficient storage and processing using the Python script included in this repository (`jpeg_to_hdf5.py`). Please refer to the [full report](https://drive.google.com/file/d/1zTl9A2gmcG1j1wzg55Ki8rwc2RpRJpas/view?usp=drive_link) and [notebook](https://github.com/saifullah-s/pneumonia-detection/blob/main/pneumonia_detection.ipynb) for more details.
