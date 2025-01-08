@@ -1,3 +1,5 @@
+[Home](https://github.com/saifullah-s/portfolio/blob/main/README.md) &nbsp;·&nbsp; [Projects](https://github.com/saifullah-s/portfolio/blob/main/projects.md) &nbsp;·&nbsp; [Skills](https://github.com/saifullah-s/portfolio/blob/main/skills.md) &nbsp;·&nbsp; [About Me](https://github.com/saifullah-s/portfolio/blob/main/about-me.md) &nbsp;·&nbsp; [Contact](https://github.com/saifullah-s/portfolio/blob/main/contact.md) &nbsp;·&nbsp; [Resume](https://github.com/saifullah-s/portfolio/blob/main/resume.md)  
+
 # PneumoCatcher: Automated Pneumonia Detection from Chest X-Rays Using Deep Learning  
 
 - [Full Report](https://drive.google.com/file/d/1zTl9A2gmcG1j1wzg55Ki8rwc2RpRJpas/view?usp=drive_link)  
