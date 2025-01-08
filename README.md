@@ -10,6 +10,14 @@
 **Dr. Cihan Dagli**  
 Professor at Missouri S&T, Founder and Director of Systems Engineering Graduate Program  
 
+## Summary
+-	Developed a custom CNN model (TensorFlow) and utilized transfer learning by fine-tuning the ResNet-50 model to classify pneumonia from chest X-rays, achieving 95.6% accuracy and 97.0% F1-score.
+-	Implemented Grad-CAM heatmaps for explainable AI, visualizing model decision-making.
+-	Uncovered overfitting in the models and provided recommendations for enhancing predictive reliability.
+-	Preprocessed large-scale medical imaging data, including grayscaling, resizing, and normalization.
+-	Conducted robust evaluations with metrics like Precision, Recall, F1-score, and confusion matrix analysis.
+-	Delivered findings through an interactive Colab notebook, detailed report, and live presentation.
+
 ## Description  
 A deep learning project using convolutional neural networks (CNNs) to detect pneumonia in chest X-ray images. This study compared a custom-designed CNN model against fine-tuned ResNet-50 architectures. Grad-CAM heatmaps were employed for interpretability, providing visual insights into the models' decision-making.  
 
